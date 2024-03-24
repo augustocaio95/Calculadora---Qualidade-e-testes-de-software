@@ -2,7 +2,7 @@
     <li><strong>Título do projeto:</strong> Projeto de testes automatizados</li>
     <li><strong>Pré-requisitos:</strong> Java, JUnit, JavaDOC, Apache Netbeans</li>
     <li><strong>Estrutura do projeto:</strong> O projeto conta com as classes de operações básicas de uma calculadora (Soma, multiplicação, divisão, subtração)</li>
-    <li><strong>Implantações:</strong> (Aplicadas dentro da atividade)</li>
+    <li><strong>Implantações:</strong> Foi adcionada uma nova classe de testes automaticos utilizando JUnit</li>
     <li><strong>Versionamento:</strong> (Listagem de versões na qual o exercício está)</li>
     <li><strong>Autor:</strong> Caio Augusto Carvalho dos Santos</li>
     <li><strong>RA:</strong> 224120</li>
