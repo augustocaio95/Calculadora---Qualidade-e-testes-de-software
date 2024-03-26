@@ -5,7 +5,9 @@ package com.mycompany.calculadoratestes;
 
 /**
  *
- * @author caio_
+ * @author Caio Augusto Carvalho dos Santos
+ * @Version 1.1
+ * @since Release 1 da aplicação
  */
 public class CalculadoraTestes {
 
